@@ -568,7 +568,9 @@ footer .left ul {
   color: var(--just-white);
 }
 .right img {
-  margin: 15px 0;
+  width: 40px;
+  height: 35px;
+  margin-bottom: 10px;
 }
 .right span {
   color: var(--just-white);
